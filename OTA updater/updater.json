@@ -2,7 +2,49 @@
   "stable": {
     "current_version": 8300000,
     "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.3/QP.Gallery.8.3.apk",
-    "changelog": "stable test"
+    "changelog": "NEW
+
+ Discover tab (in cloud menu)
+
+ Support for fold screens
+
+ Support for screens with a high refresh rate
+
+FIXES
+
+ Move and copy files in Android 11
+
+ Error to rename sd card files in Android 11
+
+ SQLite can't not open database toast
+
+ Crash when trying to open the settings (Android 5, 6)
+
+ Size of icons in share menu and image edit layouts
+
+ Visual glitch when opening alphanumeric password popup
+
+ Minor compatibility issues with Android 5
+
+IMPROVEMENTS
+
+ Some themes
+
+ Transfer file speed
+
+ Organize resources and small things
+
+ Organize some regions of translations
+
+ More fluid animations
+
+OTHERS
+
+ Downgrade some codes to stock
+
+ Update FAQ link
+
+ Internal code cleaning"
   },
   "beta": {
     "current_version": 8000000,
