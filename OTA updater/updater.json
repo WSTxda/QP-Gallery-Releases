@@ -2,11 +2,16 @@
   "stable": {
     "current_version": 8300000,
     "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.3/QP.Gallery.8.3.apk",
-    "changelog": "stable\ntest"
+    "changelog": "stable test"
   },
   "beta": {
     "current_version": 8000000,
     "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/QP%20Gallery%208.3.9.apk",
     "changelog": "beta test"
+ },
+  "alternative": {
+    "current_version": 8300000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.3/8.3.Alternative.apk",
+    "changelog": "alternative test"
       }
 }
