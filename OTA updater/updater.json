@@ -5,8 +5,8 @@
     "changelog": "stable build"
   },
   "beta": {
-    "current_version": 8000000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/QP%20Gallery%208.3.9.apk",
+    "current_version": 8391000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%208.3.10.apk",
     "changelog": "Update OTA settings layout\nImprovements default translations\nSmall changes\nFist OTA update :)"
  },
   "alternative": {
