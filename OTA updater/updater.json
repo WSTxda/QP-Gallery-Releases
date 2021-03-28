@@ -5,9 +5,9 @@
     "changelog": "stable build"
   },
   "beta": {
-    "current_version": 8392000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%208.3.11.apk",
-    "changelog": "Change updater behavior to builtin downloader\nFixed crash in pattern password confirm for hide folders\nCode cleaning and optimizations"
+    "current_version": 8393000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%208.3.12.apk",
+    "changelog": "Try fix Android 7 issues\nMore improvents\nBuiltin updater test"
  },
   "alternative": {
     "current_version": 8300000,
