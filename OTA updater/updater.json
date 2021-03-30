@@ -5,9 +5,9 @@
     "changelog": "stable build"
   },
   "beta": {
-    "current_version": 8393000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%208.3.12.apk",
-    "changelog": "Try fix Android 7 issues\nMore improvents\nBuiltin updater test"
+    "current_version": 8394000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%208.3.13.apk",
+    "changelog": "Fixed images disappear when doing move, copy, rename, etc (Android 11 only)\nSome fixes for updater\nUpdate translations\nSmall fixes"   
  },
   "alternative": {
     "current_version": 8300000,
