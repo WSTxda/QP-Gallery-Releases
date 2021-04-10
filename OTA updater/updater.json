@@ -1,17 +1,17 @@
 {
   "stable": {
-    "current_version": 8300000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.3/QP.Gallery.8.3.apk",
-    "changelog": "stable build"
+    "current_version": 8400000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.4/QP.Gallery.8.4.apk",
+    "changelog": "New\\\n- OTA updates in app\n- New organized settings options\\\nFixes\\\n- Image disappear when doing move, copy, rename, etc (Android 11)\n- Scoped storage behavior\n- Hardcoded actionbar\\\nOthers\\\n- Added sort button in album list\n- Update to apktool 2.5.0\n- Cleaning and optimizations\n- Update translations"
   },
   "beta": {
-    "current_version": 8394000,
+    "current_version": 8400000,
     "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%208.3.13.apk",
-    "changelog": "Fixed images disappear when doing move, copy, rename, etc (Android 11 only)\nSome fixes for updater\nUpdate translations\nSmall fixes"   
+    "changelog": "New\\\n- OTA updates in app\n- New organized settings options\\\nFixes\\\n- Image disappear when doing move, copy, rename, etc (Android 11)\n- Scoped storage behavior\n- Hardcoded actionbar\\\nOthers\\\n- Added sort button in album list\n- Update to apktool 2.5.0\n- Cleaning and optimizations\n- Update translations"  
  },
   "alternative": {
-    "current_version": 8300000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.3/8.3.Alternative.apk",
-    "changelog": "alternative build"
+    "current_version": 8400000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.4/8.4.Alternative.apk",
+    "changelog": "New\\\n- OTA updates in app\n- New organized settings options\\\nFixes\\\n- Image disappear when doing move, copy, rename, etc (Android 11)\n- Scoped storage behavior\n- Hardcoded actionbar\\\nOthers\\\n- Added sort button in album list\n- Update to apktool 2.5.0\n- Cleaning and optimizations\n- Update translations"
       }
 }
