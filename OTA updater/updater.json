@@ -1,17 +1,17 @@
 {
   "stable": {
-    "current_version": 8400000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.4/QP.Gallery.8.4.apk",
-    "changelog": "New\n- OTA updates in app\n- New organized settings options\nFixes\n- Image disappear when doing move, copy, rename, etc (Android 11)\n- Scoped storage behavior\n- Hardcoded actionbar\nOthers\n- Added sort button in album list\n- Update to apktool 2.5.0\n- Cleaning and optimizations\n- Update translations"
+    "current_version": 8500000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.5/QP.Gallery.8.5.apk",
+    "changelog": "- Fix gif frezzes in player\n- Fix transfer low speed\n- Fix some translations"
   },
   "beta": {
-    "current_version": 8400000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.4/QP.Gallery.8.4.apk",
-    "changelog": "New\n- OTA updates in app\n- New organized settings options\nFixes\n- Image disappear when doing move, copy, rename, etc (Android 11)\n- Scoped storage behavior\n- Hardcoded actionbar\nOthers\n- Added sort button in album list\n- Update to apktool 2.5.0\n- Cleaning and optimizations\n- Update translations"  
+    "current_version": 8500000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.5/QP.Gallery.8.5.apk",
+    "changelog": "- Fix gif frezzes in player\n- Fix transfer low speed\n- Fix some translations"
  },
   "alternative": {
-    "current_version": 8400000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.4/8.4.Alternative.apk",
-    "changelog": "New\n- OTA updates in app\n- New organized settings options\nFixes\n- Image disappear when doing move, copy, rename, etc (Android 11)\n- Scoped storage behavior\n- Hardcoded actionbar\nOthers\n- Added sort button in album list\n- Update to apktool 2.5.0\n- Cleaning and optimizations\n- Update translations"
+    "current_version": 8500000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.5/8.5.Alternative.apk",
+    "changelog": "- Fix gif frezzes in player\n- Fix transfer low speed\n- Fix some translations"
       }
 }
