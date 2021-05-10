@@ -1,0 +1,5 @@
+画廊app添加快捷方式到桌面的功能在安卓8.0以上系统不起作用。
+原因是新系统需要额外赋予app添加快捷方式的权限，请求适配。
+
+Gallery app's ability to add shortcuts to the desktop does not work on Android 8. 0 or more.
+The reason is that the new system needs to give app additional permissions to add shortcuts and request adaptation.
