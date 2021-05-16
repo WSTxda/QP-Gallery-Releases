@@ -13,5 +13,10 @@
     "current_version": 8500000,
     "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.5/8.5.Alternative.apk",
     "changelog": "- Fix gif frezzes in player\n- Fix transfer low speed\n- Fix some translations"
+},
+  "package": {
+    "current_version": 8500000,
+    "download_url": "empty",
+    "changelog": "empty"
       }
 }
