@@ -5,9 +5,9 @@
     "changelog": "- Fix gif frezzes in player\n- Fix transfer low speed\n- Fix some translations"
   },
   "beta": {
-    "current_version": 8500000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.5/QP.Gallery.8.5.apk",
-    "changelog": "- Fix gif frezzes in player\n- Fix transfer low speed\n- Fix some translations"
+    "current_version": 8530000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%208.5.3.apk",
+    "changelog": "- New update channel called package\nThis channel will provide a different package name (com.wstxda.quickpic) for you to use. The download will be available in the next release version"
  },
   "alternative": {
     "current_version": 8500000,
