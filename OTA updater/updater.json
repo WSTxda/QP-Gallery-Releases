@@ -5,9 +5,9 @@
     "changelog": "- Fix gif frezzes in player\n- Fix transfer low speed\n- Fix some translations"
   },
   "beta": {
-    "current_version": 8540000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%208.5.4.apk",
-    "changelog": "- App shortcuts\n- Bug fixes"
+    "current_version": 8550000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%208.5.5.apk",
+    "changelog": "- Fixed shortcuts icon size\n- Small changes"
  },
   "alternative": {
     "current_version": 8500000,
