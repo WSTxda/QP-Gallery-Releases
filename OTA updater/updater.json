@@ -5,9 +5,9 @@
     "changelog": "- Fix gif frezzes in player\n- Fix transfer low speed\n- Fix some translations"
   },
   "beta": {
-    "current_version": 8550000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%208.5.5.apk",
-    "changelog": "- Fixed shortcuts icon size\n- Small changes"
+    "current_version": 8560000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%208.5.6.apk",
+    "changelog": "- Added support for monet theme (avaliable in future)\n- Added link to desktop for folders\n- Removed some drawer options\n- Optimized cache creation\n- Fixed some bugs\n- Added more translations"
  },
   "alternative": {
     "current_version": 8500000,
