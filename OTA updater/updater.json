@@ -7,7 +7,7 @@
   "beta": {
     "current_version": 8580000,
     "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%208.5.8.apk",
-    "changelog": "- Fixed squares in image when rendering when dark mod is enabled (MIUI only)\n- Added more translations"
+    "changelog": "- Fixed squares in image when rendering when dark mode is enabled (MIUI only)\n- Added more translations"
  },
   "alternative": {
     "current_version": 8500000,
