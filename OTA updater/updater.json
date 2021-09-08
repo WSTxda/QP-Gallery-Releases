@@ -5,9 +5,9 @@
     "changelog": "- Fix gif frezzes in player\n- Fix transfer low speed\n- Fix some translations"
   },
   "beta": {
-    "current_version": 8590000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%208.5.9.apk",
-    "changelog": "- Some changes to support Android 12"
+    "current_version": 8591000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%208.5.10.apk",
+    "changelog": "- Fixed video player activity not open in MIUI 12.5\n- Fixed failed to load image when modifying in the built-in editor for scoped storage\n- Separate colors from bars to monet (in the future)\n- Small changes"
  },
   "alternative": {
     "current_version": 8500000,
