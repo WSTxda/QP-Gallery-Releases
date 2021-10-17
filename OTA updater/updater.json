@@ -5,9 +5,9 @@
     "changelog": "- Fix gif frezzes in player\n- Fix transfer low speed\n- Fix some translations"
   },
   "beta": {
-    "current_version": 8592000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%208.5.11.apk",
-    "changelog": "- Fixed settings activity frezzes\n- Revert bar color in amoled black\n- Small changes"
+    "current_version": 8594000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%208.5.13.apk",
+    "changelog": "- Added support for Monet Theme Engine (Android 12 only)\n- Update color themes palette\n- Reworked about menu with links to contributors and developer\n- Added QuickPic in image category (useful for systems that define a default gallery)\n- Some optimizations, cleanup and adaptations"
  },
   "alternative": {
     "current_version": 8500000,
