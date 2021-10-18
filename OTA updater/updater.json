@@ -5,9 +5,9 @@
     "changelog": "- Fix gif frezzes in player\n- Fix transfer low speed\n- Fix some translations"
   },
   "beta": {
-    "current_version": 8595000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%208.5.14.apk",
-    "changelog": "- Dark theme and Black Amoled use monet colors now\n- Improved palette extracted from the system\n- Fixed bars colors for Android 11 and below\n- Some optimizations"
+    "current_version": 8596000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%208.5.15.apk",
+    "changelog": "- Fixed opening crash\n- Dark theme and Black Amoled use monet colors now\n- Improved palette extracted from the system\n- Fixed bars colors for Android 11 and below\n- Some optimizations"
  },
   "alternative": {
     "current_version": 8500000,
