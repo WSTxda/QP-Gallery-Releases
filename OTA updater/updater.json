@@ -1,17 +1,17 @@
 {
   "stable": {
-    "current_version": 8700000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.7/QP.Gallery.8.7.apk",
-    "changelog": "- (FIX) Video player not opening in MIUI 12.x\n- (FIX) Transparent theme flickers in Android 12\n- (FIX|WIP) Some image formats not displayed in albums\n- (IMP) Monet theme color extraction\n- (IMP) Isolation (If you are not on Android 12, strange colors will not be used like in Google apps)\n- (OTR) Adapted some things for alternative version\n- (OTR) OTA changelog support HTML format\n- (OTR) Update translations"
+    "current_version": 8710000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.7.1/QP.Gallery.8.7.1.apk",
+    "changelog": "- (FIX) Some bugs"
   },
   "beta": {
-    "current_version": 8700000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.7/QP.Gallery.8.7.apk",
-    "changelog": "- (FIX) Video player not opening in MIUI 12.x\n- (FIX) Transparent theme flickers in Android 12\n- (FIX|WIP) Some image formats not displayed in albums\n- (IMP) Monet theme color extraction\n- (IMP) Isolation (If you are not on Android 12, strange colors will not be used like in Google apps)\n- (OTR) Adapted some things for alternative version\n- (OTR) OTA changelog support HTML format\n- (OTR) Update translations"
+    "current_version": 8710000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.7.1/QP.Gallery.8.7.1.apk",
+    "changelog": "- (FIX) Some bugs"
  },
   "alternative": {
-    "current_version": 8700000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.7/8.7.Alternative.apk",
-    "changelog": "- (FIX) Video player not opening in MIUI 12.x\n- (FIX) Transparent theme flickers in Android 12\n- (FIX|WIP) Some image formats not displayed in albums\n- (IMP) Monet theme color extraction\n- (IMP) Isolation (If you are not on Android 12, strange colors will not be used like in Google apps)\n- (OTR) Adapted some things for alternative version\n- (OTR) OTA changelog support HTML format\n- (OTR) Update translations"
+    "current_version": 8710000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.7.1/8.7.1.Alternative.apk",
+    "changelog": "- (FIX) Some bugs"
       }
 }
