@@ -5,13 +5,13 @@
     "changelog": "- (FIX) Some bugs"
   },
   "beta": {
-    "current_version": 8720000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.7.2/QP.Gallery.8.7.2.apk",
-    "changelog": "- (FIX) Some bugs"
- },
+    "current_version": 8730000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%208.7.3.apk",
+    "changelog": "- (NEW) Support to themed icon (Android 13 only)\n- (FIX) Video loading when restart by button\n- (FIX) Translucid theme glitches in Android 12/13\n- (FIX) Samba cloud API (not available yet)\n- (INT) Do not request storage read access when manage all files is required\n- (INT) Drop AVI support because crashes now (it's temporary)\n- (INT) Implement getManageSpaceActivityIntent in scoped storage\n- (INT) Various fixes and changes"
+  },
   "alternative": {
     "current_version": 8720000,
     "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.7.2/8.7.2.Alternative.apk",
     "changelog": "- (FIX) Some bugs"
-      }
+  }
 }
