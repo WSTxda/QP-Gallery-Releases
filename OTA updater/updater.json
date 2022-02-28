@@ -5,9 +5,9 @@
     "changelog": "- (FIX) Some bugs"
   },
   "beta": {
-    "current_version": 8750000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%208.7.5.apk",
-    "changelog": "- (NEW) Animated icon splash screen (Android 12+)\n- (FIX) themed icon size\n- (INT) Update app translations\n- (INT)- Internal changes"
+    "current_version": 8760000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%208.7.6.apk",
+    "changelog": "- (INT) Adjust animated icon in splash screen (Android 12+)\n- (INT) Some changes"
   },
   "alternative": {
     "current_version": 8720000,
