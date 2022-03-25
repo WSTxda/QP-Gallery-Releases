@@ -6,7 +6,7 @@
   },
   "beta": {
     "current_version": 8810000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.8/QP.Gallery.8.8.apk",
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%208.8.1.apk",
     "changelog": "- (WIP) Added support for webp, webm, heic, heif, avif format\n- (INT) Make reverse engineering to reimplement codec support directly by the system\n- (INT) Some changes"
   },
   "alternative": {
