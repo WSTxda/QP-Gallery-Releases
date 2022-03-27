@@ -5,9 +5,9 @@
     "changelog": "- (NEW) Animated icon splash screen (Android 12+)\n- (NEW) Support to themed icon (Android 13)\n- (NEW) Use SAF implementation for acess SD card in add folder option (available in album settings)\n- (FIX) Video loading when restart by button\n- (FIX) Translucid theme glitches in Android 12/13\n- (FIX) AVI format crashes\n- (INT) Do not request storage read access when manage all files is required\n- (INT) Adjust monet themes colors\n- (INT) Use md3 actionbar padding and remove shadow\n- (INT) Merge translations\n- (INT) Small improvements and fixes"
   },
   "beta": {
-    "current_version": 8810000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%208.8.1.apk",
-    "changelog": "- (WIP) Added support for webp, webm, heic, heif, avif format\n- (INT) Make reverse engineering to reimplement codec support directly by the system\n- (INT) Some changes"
+    "current_version": 8820000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%208.8.2.apk",
+    "changelog": "- (NEW) Convert format to jpeg when saved by built-in editor\n- (WIP) heic, heif rotation\n- (FIX) Video restart wen use prev and skip button in webp format\n- (INT) Various internal changes, fixes and code cleaning"
   },
   "alternative": {
     "current_version": 8800000,
