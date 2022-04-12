@@ -5,9 +5,9 @@
     "changelog": "- (NEW) Animated icon splash screen (Android 12+)\n- (NEW) Support to themed icon (Android 13)\n- (NEW) Use SAF implementation for acess SD card in add folder option (available in album settings)\n- (FIX) Video loading when restart by button\n- (FIX) Translucid theme glitches in Android 12/13\n- (FIX) AVI format crashes\n- (INT) Do not request storage read access when manage all files is required\n- (INT) Adjust monet themes colors\n- (INT) Use md3 actionbar padding and remove shadow\n- (INT) Merge translations\n- (INT) Small improvements and fixes"
   },
   "beta": {
-    "current_version": 8840000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%208.8.4.apk",
-    "changelog": "- (NEW) Added heif, heic in clear cache filter and clear cache on exit\n- (NEW) Do not turn off screen in full image view\n- (FIX) Camera folder don't pin by default in ANX camera mods\n- (WIP) Drop nav drawer and move to menu\n- (INT) Minor fixes and improvements"
+    "current_version": 8850000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%208.8.5.apk",
+    "changelog": "- (REVERT) drop nav drawer and move to menu\n- (INT) Translations updates"
   },
   "alternative": {
     "current_version": 8800000,
