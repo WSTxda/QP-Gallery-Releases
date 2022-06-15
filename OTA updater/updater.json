@@ -1,17 +1,17 @@
 {
   "stable": {
-    "current_version": 8800000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.8/QP.Gallery.8.8.apk",
-    "changelog": "- (NEW) Animated icon splash screen (Android 12+)\n- (NEW) Support to themed icon (Android 13)\n- (NEW) Use SAF implementation for acess SD card in add folder option (available in album settings)\n- (FIX) Video loading when restart by button\n- (FIX) Translucid theme glitches in Android 12/13\n- (FIX) AVI format crashes\n- (INT) Do not request storage read access when manage all files is required\n- (INT) Adjust monet themes colors\n- (INT) Use md3 actionbar padding and remove shadow\n- (INT) Merge translations\n- (INT) Small improvements and fixes"
+    "current_version": 8900000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.9/QP.Gallery.8.9.apk",
+    "changelog": "- (NEW) Added support for webp, webm, heic, heif, avif format\n- (NEW) Convert format to jpeg when saved by built-in editor\n- (NEW) Keeps the screen on in full image view\n- (FIX) Video restart wen use prev and skip button in webm format\n- (FIX) Camera folder don't pin by default in ANX camera mods\n- (INT) Added heif, heic in clear cache filter and clear cache on exit\n- (INT) Various internal changes, fixes and code cleaning\n- (INT) Update translations"
   },
   "beta": {
-    "current_version": 8850000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%208.8.5.apk",
-    "changelog": "- (REVERT) drop nav drawer and move to menu\n- (INT) Translations updates"
+    "current_version": 8900000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.9/QP.Gallery.8.9.apk",
+    "changelog": "- (NEW) Added support for webp, webm, heic, heif, avif format\n- (NEW) Convert format to jpeg when saved by built-in editor\n- (NEW) Keeps the screen on in full image view\n- (FIX) Video restart wen use prev and skip button in webm format\n- (FIX) Camera folder don't pin by default in ANX camera mods\n- (INT) Added heif, heic in clear cache filter and clear cache on exit\n- (INT) Various internal changes, fixes and code cleaning\n- (INT) Update translations"
   },
   "alternative": {
-    "current_version": 8800000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.8/8.8.Alternative.apk",
-    "changelog": "- (NEW) Animated icon splash screen (Android 12+)\n- (NEW) Support to themed icon (Android 13)\n- (NEW) Use SAF implementation for acess SD card in add folder option (available in album settings)\n- (FIX) Video loading when restart by button\n- (FIX) Translucid theme glitches in Android 12/13\n- (FIX) AVI format crashes\n- (INT) Do not request storage read access when manage all files is required\n- (INT) Adjust monet themes colors\n- (INT) Use md3 actionbar padding and remove shadow\n- (INT) Merge translations\n- (INT) Small improvements and fixes"
+    "current_version": 8900000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.9/8.9.Alternative.apk",
+    "changelog": "- (NEW) Added support for webp, webm, heic, heif, avif format\n- (NEW) Convert format to jpeg when saved by built-in editor\n- (NEW) Keeps the screen on in full image view\n- (FIX) Video restart wen use prev and skip button in webm format\n- (FIX) Camera folder don't pin by default in ANX camera mods\n- (INT) Added heif, heic in clear cache filter and clear cache on exit\n- (INT) Various internal changes, fixes and code cleaning\n- (INT) Update translations"
   }
 }
