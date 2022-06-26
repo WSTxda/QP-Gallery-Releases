@@ -5,7 +5,7 @@
     "changelog": "- (NEW) Added support for webp, webm, heic, heif, avif format\n- (NEW) Convert format to jpeg when saved by built-in editor\n- (NEW) Keeps the screen on in full image view\n- (FIX) Video restart wen use prev and skip button in webm format\n- (FIX) Camera folder don't pin by default in ANX camera mods\n- (INT) Added heif, heic in clear cache filter and clear cache on exit\n- (INT) Various internal changes, fixes and code cleaning\n- (INT) Update translations"
   },
   "beta": {
-    "current_version": 8900000,
+    "current_version": 8900001,
     "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.9/QP.Gallery.8.9.apk",
     "changelog": "- (NEW) Added support for webp, webm, heic, heif, avif format\n- (NEW) Convert format to jpeg when saved by built-in editor\n- (NEW) Keeps the screen on in full image view\n- (FIX) Video restart wen use prev and skip button in webm format\n- (FIX) Camera folder don't pin by default in ANX camera mods\n- (INT) Added heif, heic in clear cache filter and clear cache on exit\n- (INT) Various internal changes, fixes and code cleaning\n- (INT) Update translations"
   },
