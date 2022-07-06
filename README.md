@@ -7,4 +7,6 @@
 
 [![Download](https://img.shields.io/github/downloads/WSTxda/QP-Gallery-Releases/total?color=brightgreen&label=Download&style=for-the-badge)](https://github.com/WSTxda/QP-Gallery-Releases/releases)
 
+[![Telegram](https://img.shields.io/badge/-Telegram-blue?color=brightgreen&label=Download&style=for-the-badge)](https://github.com/WSTxda/QP-Gallery-Releases/releases)
+
 <p align="vertical"><a href="https://bit.ly/2lV0E6u"><img src="https://github.com/aha999/DonateButtons/blob/1371730702589476cbd31790685ded66857a1f08/Paypal.png" width="175"></a></p>
