@@ -5,14 +5,14 @@
 
 **Download**
 
-[<img src="https://github.com/WSTxda/QP-Gallery-Releases/blob/main/Images/GitHub.svg"
+[<img src="https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/GitHub.svg"
       alt='Get it on GitHub'
-      height="80">](https://github.com/WSTxda/QP-Gallery-Releases/releases/latest) [<img src="https://github.com/WSTxda/QP-Gallery-Releases/blob/main/Images/Telegram.svg"
+      height="80">](https://github.com/WSTxda/QP-Gallery-Releases/releases/latest) [<img src="https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/Telegram.svg"
       alt='Get it on Telegram'
       height="80">](https://t.me/WSTprojects)
       
 **Donate**
 
-[<img src="https://github.com/WSTxda/QP-Gallery-Releases/blob/main/Images/PayPal.svg"
+[<img src="https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/PayPal.svg"
       alt='Donate with PayPal'
       height="80">](https://bit.ly/2lV0E6u)     
