@@ -10,8 +10,8 @@
     "changelog": "- (NEW) Improvement MD3 design, new dialogs, switch and more\n- (FIX) Statusbar icon color in light splash screen\n- (FIX) Actionbar hardcoded color inherit\n- (FIX) Dialog button tint\n- (INT) Small color improvements\n- (INT) Update about links"
   },
   "alternative": {
-    "current_version": 8910000,
+    "current_version": 8911000,
     "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.10/8.10.Alternative.apk",
-    "changelog": "- (NEW) Improvement MD3 design, new dialogs, switch and more\n- (FIX) Statusbar icon color in light splash screen\n- (FIX) Actionbar hardcoded color inherit\n- (FIX) Dialog button tint\n- (INT) Small color improvements\n- (INT) Update about links"
+    "changelog": "- (FIX) Build script (Android 12 splash screen don't match alternative variant)\n- (NEW) Improvement MD3 design, new dialogs, switch and more\n- (FIX) Statusbar icon color in light splash screen\n- (FIX) Actionbar hardcoded color inherit\n- (FIX) Dialog button tint\n- (INT) Small color improvements\n- (INT) Update about links"
   }
 }
