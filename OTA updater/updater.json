@@ -1,17 +1,17 @@
 {
   "stable": {
-    "current_version": 8920000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.11/QP.Gallery.8.11.apk",
-    "changelog": "- (FIX) Share button in video player\n- (FIX) Switch and dialog colors\n- (FIX) Android 13 crash when rotate image in editor\n- (INT) Optimizations and cleanings"
+    "current_version": 8930000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.12/QP.Gallery.8.12.apk",
+    "changelog": "- (NEW) Rework icon design with monet support\n- (FIX) Navigation bar transparency\n- (FIX) Hardcoded shared preference style\n- (FIX) HEIC, HEIF wrong image orientation\n- (FIX) Try fix video player no opening in MIUI\n- (INT) Fixes, cleaning and optimizations"
   },
   "beta": {
-    "current_version": 8920000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.11/QP.Gallery.8.11.apk",
-    "changelog": "- (FIX) Share button in video player\n- (FIX) Switch and dialog colors\n- (FIX) Android 13 crash when rotate image in editor\n- (INT) Optimizations and cleanings"
+    "current_version": 8930000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.12/QP.Gallery.8.12.apk",
+    "changelog": "- (NEW) Rework icon design with monet support\n- (FIX) Navigation bar transparency\n- (FIX) Hardcoded shared preference style\n- (FIX) HEIC, HEIF wrong image orientation\n- (FIX) Try fix video player no opening in MIUI\n- (INT) Fixes, cleaning and optimizations"
   },
   "alternative": {
-    "current_version": 8920000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.11/8.11.Alternative.apk",
-    "changelog": "- (FIX) Share button in video player\n- (FIX) Switch and dialog colors\n- (FIX) Android 13 crash when rotate image in editor\n- (INT) Optimizations and cleanings"
+    "current_version": 8930000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.12/8.12.Alternative.apk",
+    "changelog": "- (NEW) Rework icon design with monet support\n- (FIX) Navigation bar transparency\n- (FIX) Hardcoded shared preference style\n- (FIX) HEIC, HEIF wrong image orientation\n- (FIX) Try fix video player no opening in MIUI\n- (INT) Fixes, cleaning and optimizations"
   }
 }
