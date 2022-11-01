@@ -5,9 +5,9 @@
     "changelog": "- (NEW) Rework icon design with monet support\n- (FIX) Navigation bar transparency\n- (FIX) Hardcoded shared preference style\n- (FIX) HEIC, HEIF wrong image orientation\n- (FIX) Try fix video player no opening in MIUI\n- (INT) Fixes, cleaning and optimizations"
   },
   "beta": {
-    "current_version": 8940000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%209.0%20β1.apk",
-    "changelog": "- (NEW) Switch full to MD3 (WIP)\n- (NEW) Added block screenshots security feature\n- (FIX) Delete files in multi-selection mode\n- (FIX) Persistent toast when sending files via WiFi Transfer\n- (FIX) Circular proguessbar not found in window decoder\n- (INT) Remove monet support in app icon\n- (INT) Remove wallpaper option in drawer menu\n- (INT) Remove html changelog support\n- (INT) Remove html changelog support"
+    "current_version": 8950000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%209.0%20β2.apk",
+    "changelog": "- (NEW) Update themed icon design\n- (NEW) Now you can choose which app you want use to apply translucid theme background\n- (INT) Ignore EXIF info for image orientation and force use device screen orientation\n- (FIX) Security tab crash wen clicked\n- (FIX) Remove block screenshots option (for now)\n- (INT) Cleaning activity, services e providers\n- (INT) Small improvements and fixes"
   },
   "alternative": {
     "current_version": 8930000,
