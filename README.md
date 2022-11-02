@@ -15,4 +15,6 @@
 
 [<img src="https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/PayPal.svg"
       alt='Donate with PayPal'
-      height="80">](https://bit.ly/2lV0E6u)     
+      height="80">](https://bit.ly/2lV0E6u) [<img src="https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/BMC.svg"
+      alt='Donate with BMC'
+      height="80">](https://www.buymeacoffee.com/wstxda)      
