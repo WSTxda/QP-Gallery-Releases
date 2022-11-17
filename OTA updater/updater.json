@@ -5,9 +5,9 @@
     "changelog": "- (NEW) Rework icon design with monet support\n- (FIX) Navigation bar transparency\n- (FIX) Hardcoded shared preference style\n- (FIX) HEIC, HEIF wrong image orientation\n- (FIX) Try fix video player no opening in MIUI\n- (INT) Fixes, cleaning and optimizations"
   },
   "beta": {
-    "current_version": 8960000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%209.0%20β3.apk",
-    "changelog": "- (NEW) Support for android TV (WIP)\n- (FIX) Built-in editor crash wen open in another app\n- (INT) Small fixes"
+    "current_version": 8970000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%209.0%20β4.apk",
+    "changelog": "- (NEW) Added support per-app language (Android 13)\n- (FIX) landscape orientation editor\n- (REVERT) Ignore EXIF info for image orientation and force use device screen orientation\n- (INT) Hide WiFi Transfer option wen installed in Android TV\n- (INT) Drop all experimental code feature for a stability\n- (INT) Small bug fixes and changes"
   },
   "alternative": {
     "current_version": 8930000,
