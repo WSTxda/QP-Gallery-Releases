@@ -1,17 +1,17 @@
 {
   "stable": {
-    "current_version": 8930000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.12/QP.Gallery.8.12.apk",
-    "changelog": "- (NEW) Rework icon design with monet support\n- (FIX) Navigation bar transparency\n- (FIX) Hardcoded shared preference style\n- (FIX) HEIC, HEIF wrong image orientation\n- (FIX) Try fix video player no opening in MIUI\n- (INT) Fixes, cleaning and optimizations"
+    "current_version": 9000000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.0/QP.Gallery.9.0.apk",
+    "changelog": "- (NEW) Material design 3 style\n- (NEW) Support to use in Android TV\n- (NEW) Support per-app language (Android 13)\n- (FIX) Persistent toast when sending files via WiFi Transfer\n- (FIX) Circular proguessbar not found in window decoder\n- (FIX) Landscape editor orientation restart UI\n- (IMPROVEMENT) Request notification permission in Android 13\n- (IMPROVEMENT) Update themed icon design and use Android Developers guidelines\n- (IMPROVEMENT) Update monet theme pallette to use surface color and color harmonization\n- (IMP) Now you can choose which app you want use to apply translucid theme background\n- (OTHER) Cleaning activity, services e providers\n- (OTHER) Remove wallpaper option in drawer menu\n- (OTHER) Remove html changelog support\n- (OTHER) Update translations\n- (OTHER) Small bugs fixes and improvements"
   },
   "beta": {
-    "current_version": 8970000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%209.0%20β4.apk",
-    "changelog": "- (NEW) Added support per-app language (Android 13)\n- (FIX) landscape orientation editor\n- (REVERT) Ignore EXIF info for image orientation and force use device screen orientation\n- (INT) Hide WiFi Transfer option wen installed in Android TV\n- (INT) Drop all experimental code feature for a stability\n- (INT) Small bug fixes and changes"
+    "current_version": 9000000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.0/QP.Gallery.9.0.apk",
+    "changelog": "- (NEW) Material design 3 style\n- (NEW) Support to use in Android TV\n- (NEW) Support per-app language (Android 13)\n- (FIX) Persistent toast when sending files via WiFi Transfer\n- (FIX) Circular proguessbar not found in window decoder\n- (FIX) Landscape editor orientation restart UI\n- (IMPROVEMENT) Request notification permission in Android 13\n- (IMPROVEMENT) Update themed icon design and use Android Developers guidelines\n- (IMPROVEMENT) Update monet theme pallette to use surface color and color harmonization\n- (IMP) Now you can choose which app you want use to apply translucid theme background\n- (OTHER) Cleaning activity, services e providers\n- (OTHER) Remove wallpaper option in drawer menu\n- (OTHER) Remove html changelog support\n- (OTHER) Update translations\n- (OTHER) Small bugs fixes and improvements"
   },
   "alternative": {
-    "current_version": 8930000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/8.12/8.12.Alternative.apk",
-    "changelog": "- (NEW) Rework icon design with monet support\n- (FIX) Navigation bar transparency\n- (FIX) Hardcoded shared preference style\n- (FIX) HEIC, HEIF wrong image orientation\n- (FIX) Try fix video player no opening in MIUI\n- (INT) Fixes, cleaning and optimizations"
+    "current_version": 9000000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.0/9.0.Alternative.apk",
+    "changelog": "- (NEW) Material design 3 style\n- (NEW) Support to use in Android TV\n- (NEW) Support per-app language (Android 13)\n- (FIX) Persistent toast when sending files via WiFi Transfer\n- (FIX) Circular proguessbar not found in window decoder\n- (FIX) Landscape editor orientation restart UI\n- (IMPROVEMENT) Request notification permission in Android 13\n- (IMPROVEMENT) Update themed icon design and use Android Developers guidelines\n- (IMPROVEMENT) Update monet theme pallette to use surface color and color harmonization\n- (IMP) Now you can choose which app you want use to apply translucid theme background\n- (OTHER) Cleaning activity, services e providers\n- (OTHER) Remove wallpaper option in drawer menu\n- (OTHER) Remove html changelog support\n- (OTHER) Update translations\n- (OTHER) Small bugs fixes and improvements"
   }
 }
