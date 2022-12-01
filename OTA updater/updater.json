@@ -1,17 +1,17 @@
 {
   "stable": {
-    "current_version": 9000000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.0/QP.Gallery.9.0.apk",
-    "changelog": "- (NEW) Material design 3 style\n- (NEW) Support to use in Android TV\n- (NEW) Support per-app language (Android 13)\n- (FIX) Persistent toast when sending files via WiFi Transfer\n- (FIX) Circular proguessbar not found in window decoder\n- (FIX) Landscape editor orientation restart UI\n- (IMPROVEMENT) Request notification permission in Android 13\n- (IMPROVEMENT) Update themed icon design and use Android Developers guidelines\n- (IMPROVEMENT) Update monet theme pallette to use surface color and color harmonization\n- (IMPROVEMENT) Now you can choose which app you want use to apply translucid theme background\n- (OTHER) Cleaning activity, services e providers\n- (OTHER) Remove wallpaper option in drawer menu\n- (OTHER) Remove html changelog support\n- (OTHER) Update translations\n- (OTHER) Small bugs fixes and improvements"
+    "current_version": 9100000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.1/QP.Gallery.9.1.apk",
+    "changelog": "- Update design for app dialogs\n- Fix date function for webp and webm media files\n- Set correctly chinese translations regions\n- Update to Apktool 2.7.0\n- Optimized build for better performance"
   },
   "beta": {
-    "current_version": 9000000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.0/QP.Gallery.9.0.apk",
-    "changelog": "- (NEW) Material design 3 style\n- (NEW) Support to use in Android TV\n- (NEW) Support per-app language (Android 13)\n- (FIX) Persistent toast when sending files via WiFi Transfer\n- (FIX) Circular proguessbar not found in window decoder\n- (FIX) Landscape editor orientation restart UI\n- (IMPROVEMENT) Request notification permission in Android 13\n- (IMPROVEMENT) Update themed icon design and use Android Developers guidelines\n- (IMPROVEMENT) Update monet theme pallette to use surface color and color harmonization\n- (IMPROVEMENT) Now you can choose which app you want use to apply translucid theme background\n- (OTHER) Cleaning activity, services e providers\n- (OTHER) Remove wallpaper option in drawer menu\n- (OTHER) Remove html changelog support\n- (OTHER) Update translations\n- (OTHER) Small bugs fixes and improvements"
+    "current_version": 9100000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.1/QP.Gallery.9.1.apk",
+    "changelog": "- Update design for app dialogs\n- Fix date function for webp and webm media files\n- Set correctly chinese translations regions\n- Update to Apktool 2.7.0\n- Optimized build for better performance"
   },
   "alternative": {
-    "current_version": 9000000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.0/9.0.Alternative.apk",
-    "changelog": "- (NEW) Material design 3 style\n- (NEW) Support to use in Android TV\n- (NEW) Support per-app language (Android 13)\n- (FIX) Persistent toast when sending files via WiFi Transfer\n- (FIX) Circular proguessbar not found in window decoder\n- (FIX) Landscape editor orientation restart UI\n- (IMPROVEMENT) Request notification permission in Android 13\n- (IMPROVEMENT) Update themed icon design and use Android Developers guidelines\n- (IMPROVEMENT) Update monet theme pallette to use surface color and color harmonization\n- (IMPROVEMENT) Now you can choose which app you want use to apply translucid theme background\n- (OTHER) Cleaning activity, services e providers\n- (OTHER) Remove wallpaper option in drawer menu\n- (OTHER) Remove html changelog support\n- (OTHER) Update translations\n- (OTHER) Small bugs fixes and improvements"
+    "current_version": 9100000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.1/9.1.Alternative.apk",
+    "changelog": "- Update design for app dialogs\n- Fix date function for webp and webm media files\n- Set correctly chinese translations regions\n- Update to Apktool 2.7.0\n- Optimized build for better performance"
   }
 }
