@@ -5,9 +5,9 @@
     "changelog": "- Update design for app dialogs\n- Fix date function for webp and webm media files\n- Set correctly chinese translations regions\n- Update to Apktool 2.7.0\n- Optimized build for better performance"
   },
   "beta": {
-    "current_version": 9110000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%209.1.1.apk",
-    "changelog": "- Support for immersive mode\n- Support predictive back gestures (Android 14 Preview)\n- Fix video player not show in list selections in some OEMs\n- Fix 32bits real colors decoder\n- Internal cleanings and optimizations"
+    "current_version": 9120000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%209.1.2.apk",
+    "changelog": "- Fix back gesture make app closes\n- Fix pin hide albums (don't ignore .nomedia method)\n- Improvement theme paddings\n- Internal code improvements"
   },
   "alternative": {
     "current_version": 9100000,
