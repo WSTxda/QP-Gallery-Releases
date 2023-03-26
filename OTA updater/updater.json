@@ -5,9 +5,9 @@
     "changelog": "- Update design for app dialogs\n- Fix date function for webp and webm media files\n- Set correctly chinese translations regions\n- Update to Apktool 2.7.0\n- Optimized build for better performance"
   },
   "beta": {
-    "current_version": 9120000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%209.1.2.apk",
-    "changelog": "- Fix back gesture make app closes\n- Fix pin hide albums (don't ignore .nomedia method)\n- Improvement theme paddings\n- Internal code improvements"
+    "current_version": 9130000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%209.1.3.apk",
+    "changelog": "- Added request ignore battery optimization\n- Fix navbar color in light theme\n- Fix colors themes issues\n- Fix Android 7+ crashes\n- Some improvements"
   },
   "alternative": {
     "current_version": 9100000,
