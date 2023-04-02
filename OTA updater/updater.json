@@ -5,9 +5,9 @@
     "changelog": "- Update design for app dialogs\n- Fix date function for webp and webm media files\n- Set correctly chinese translations regions\n- Update to Apktool 2.7.0\n- Optimized build for better performance"
   },
   "beta": {
-    "current_version": 9130000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%209.1.3.apk",
-    "changelog": "- Added request ignore battery optimization\n- Fix navbar color in light theme\n- Fix colors themes issues\n- Fix Android 7+ crashes\n- Some improvements"
+    "current_version": 9140000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%209.1.4.apk",
+    "changelog": "- New card design for settings\n- Update AndroidX to gradle 8.0.2\n- Fixed menu text spacing\n- Fixed nullpointer exception for some Android versions\n- Remove some duplicates in request files permission\n- Cleaning app code and improvement smali modifications for mod\n- Some others improvements"
   },
   "alternative": {
     "current_version": 9100000,
