@@ -1,17 +1,17 @@
 {
   "stable": {
-    "current_version": 9100000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.1/QP.Gallery.9.1.apk",
-    "changelog": "- Update design for app dialogs\n- Fix date function for webp and webm media files\n- Set correctly chinese translations regions\n- Update to Apktool 2.7.0\n- Optimized build for better performance"
+    "current_version": 9200000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.2/QP.Gallery.9.2.apk",
+    "changelog": "- (NEW) Support for immersive mode\n- (NEW) Update switch design to Material3\n- (NEW) Settings screen style\n- (NEW) Support request ignore battery optimization\n- (FIX) Pin hide albums (don't ignore .nomedia method)\n- (FIX) Video player not show in list selections in some OEMs\n- (FIX) Nullpointer exception for some Android versions\n- (FIX) Partially fixed webp image rotation in 90°\n- (FIX) 32bits real colors decoder issues\n- (FIX) Menu text padding\n- (IMP) Update theme colors and use color harmonization\n- (IMP) Remove some duplicates in request files permission\n- (IMP) Support webm video format (WIP)\n- (IMP) Support raw format (works only select raw file in external explorer)\n- (IMP) Don't use hardware rendering in thumbnails cache loader (it's causes unnecessary battery usage)\n- (OTR) Update AndroidX to gradle 8.1.1\n- (OTR) Small bugs fixes and improvements\n- (OTR) Internal cleanings and optimizations\n- (OTR) Update translations"
   },
   "beta": {
-    "current_version": 9150000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%209.1.5.apk",
-    "changelog": "- Update switch design to M3\n- Update theme colors and use color harmonization\n- Don't use hw rendering in thumbnails cache loader, it's causes unnecessary battery usage\n- Support webm video format (WIP)\n- Support raw format (works only select raw file in external explorer)\n- Fix webp image rotation in 90°\n- Internal code cleaning\n- Update translations"
+    "current_version": 9200000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.2/QP.Gallery.9.2.apk",
+    "changelog": "- (NEW) Support for immersive mode\n- (NEW) Update switch design to Material3\n- (NEW) Settings screen style\n- (NEW) Support request ignore battery optimization\n- (FIX) Pin hide albums (don't ignore .nomedia method)\n- (FIX) Video player not show in list selections in some OEMs\n- (FIX) Nullpointer exception for some Android versions\n- (FIX) Partially fixed webp image rotation in 90°\n- (FIX) 32bits real colors decoder issues\n- (FIX) Menu text padding\n- (IMP) Update theme colors and use color harmonization\n- (IMP) Remove some duplicates in request files permission\n- (IMP) Support webm video format (WIP)\n- (IMP) Support raw format (works only select raw file in external explorer)\n- (IMP) Don't use hardware rendering in thumbnails cache loader (it's causes unnecessary battery usage)\n- (OTR) Update AndroidX to gradle 8.1.1\n- (OTR) Small bugs fixes and improvements\n- (OTR) Internal cleanings and optimizations\n- (OTR) Update translations"
   },
   "alternative": {
-    "current_version": 9100000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.1/9.1.Alternative.apk",
-    "changelog": "- Update design for app dialogs\n- Fix date function for webp and webm media files\n- Set correctly chinese translations regions\n- Update to Apktool 2.7.0\n- Optimized build for better performance"
+    "current_version": 9200000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.2/9.2.Alternative.apk",
+    "changelog": "- (NEW) Support for immersive mode\n- (NEW) Update switch design to Material3\n- (NEW) Settings screen style\n- (NEW) Support request ignore battery optimization\n- (FIX) Pin hide albums (don't ignore .nomedia method)\n- (FIX) Video player not show in list selections in some OEMs\n- (FIX) Nullpointer exception for some Android versions\n- (FIX) Partially fixed webp image rotation in 90°\n- (FIX) 32bits real colors decoder issues\n- (FIX) Menu text padding\n- (IMP) Update theme colors and use color harmonization\n- (IMP) Remove some duplicates in request files permission\n- (IMP) Support webm video format (WIP)\n- (IMP) Support raw format (works only select raw file in external explorer)\n- (IMP) Don't use hardware rendering in thumbnails cache loader (it's causes unnecessary battery usage)\n- (OTR) Update AndroidX to gradle 8.1.1\n- (OTR) Small bugs fixes and improvements\n- (OTR) Internal cleanings and optimizations\n- (OTR) Update translations"
   }
 }
