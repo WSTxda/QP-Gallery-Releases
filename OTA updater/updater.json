@@ -9,6 +9,11 @@
     "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.3/QP.Gallery.9.3.apk",
     "changelog": "- Use text wrap in settings to prevent title text cut\n- Fixed freeze loaf albums when opening app\n- Drop raw format support to prevent some issues"
   },
+  "developer": {
+    "current_version": 9310000,
+    "download_url": "empty",
+    "changelog": "empty"
+  },
   "alternative": {
     "current_version": 9300000,
     "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.3/9.3.Alternative.apk",
