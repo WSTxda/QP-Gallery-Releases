@@ -10,9 +10,9 @@
     "changelog": "- Use text wrap in settings to prevent title text cut\n- Fixed freeze loaf albums when opening app\n- Drop raw format support to prevent some issues"
   },
   "developer": {
-    "current_version": 9310000,
-    "download_url": "empty",
-    "changelog": "empty"
+    "current_version": 9300001,
+    "download_url": "https://drive.google.com/file/d/1Arq1bG7TrmOCbJGyFw9nUv-tMf_6gNCd/view?usp=drivesdk",
+    "changelog": "- Initial build"
   },
   "alternative": {
     "current_version": 9300000,
