@@ -10,9 +10,9 @@
     "changelog": "- Use text wrap in settings to prevent title text cut\n- Fixed freeze loaf albums when opening app\n- Drop raw format support to prevent some issues"
   },
   "developer": {
-    "current_version": 9300002,
+    "current_version": 9300003,
     "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/app-debug.apk",
-    "changelog": "- Set blur only in translucid theme parent\n- Fix video player openning in external app on Android 14\n- Drop old opengl rendering method and claning video player input"
+    "changelog": "- Set min sdk 23\n- Refresh blur background overlay to work in android preference\n- Some bug fixes and cleanings"
   },
   "alternative": {
     "current_version": 9300000,
