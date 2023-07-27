@@ -11,8 +11,8 @@
   },
   "developer": {
     "current_version": 9300001,
-    "download_url": "https://drive.google.com/file/d/1BlrUkuyhcOoTeJvVVBiXLeBwnlPBWZSf/view?usp=drivesdk",
-    "changelog": "- Initial build"
+    "download_url": "https://drive.google.com/file/d/1CGNOM5MzF69dhflE3eN-h19bq7k6XOEV/view?usp=drivesdk",
+    "changelog": "- Set blur only in translucid theme parent\n- Fix video player openning in external app on Android 14\n- Drop old opengl rendering method and claning video player input"
   },
   "alternative": {
     "current_version": 9300000,
