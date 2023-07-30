@@ -5,9 +5,9 @@
     "changelog": "- Use text wrap in settings to prevent title text cut\n- Fixed freeze loaf albums when opening app\n- Drop raw format support to prevent some issues"
   },
   "beta": {
-    "current_version": 9300000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.3/QP.Gallery.9.3.apk",
-    "changelog": "- Use text wrap in settings to prevent title text cut\n- Fixed freeze loaf albums when opening app\n- Drop raw format support to prevent some issues"
+    "current_version": 9310000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%209.3.1.apk",
+    "changelog": "- Set min sdk 23 (Remove Android 5, 6 support)\n- Don't keep screen on when view media\n- Remove built-in video player\n- MIUI 14 now can view gifs without flicks\n- Some fixes and improvements"
   },
   "developer": {
     "current_version": 9300003,
