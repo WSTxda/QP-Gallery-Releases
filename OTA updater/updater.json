@@ -5,9 +5,9 @@
     "changelog": "- Use text wrap in settings to prevent title text cut\n- Fixed freeze loaf albums when opening app\n- Drop raw format support to prevent some issues"
   },
   "beta": {
-    "current_version": 9320000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%209.3.2.apk",
-    "changelog": "- Added back built-in video player\n- Fixed video streaming loading buffer (Android 14)\n- Fixed move, copy file make media corrupt\n- Force media cache update after manage, edit files. Prevents images from disappearing from the list when managing inside or out gallery in Android 14\n- Remove link to desktop code\n- Remove path navigation bar in explore mode\n- Internal code cleanings"
+    "current_version": 9330000,
+    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%209.3.3.apk",
+    "changelog": "- Fixed ClassNotFoundException errors (Video player, WiFi Transfer)\n- Updated to SDK 34 to fix the old application alert and block installation (Android 14)\n- Removed Theme.Holo components and replaced them with Theme.Material in the UI smali\n- Fixed Play Protect warning due to the SDK update\n- Dropped support for Android 5 and 5.1\n- Synchronized components with AGP 8.1.2\n- Updated some links\n- Small improvements"
   },
   "developer": {
     "current_version": 9300003,
