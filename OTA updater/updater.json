@@ -1,22 +1,17 @@
 {
   "stable": {
-    "current_version": 9300000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.3/QP.Gallery.9.3.apk",
-    "changelog": "- Use text wrap in settings to prevent title text cut\n- Fixed freeze loaf albums when opening app\n- Drop raw format support to prevent some issues"
+	"current_version": 9300000,
+	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.3/QP.Gallery.9.3.apk",
+	"changelog": "- Use text wrap in settings to prevent title text cut\n- Fixed freeze loaf albums when opening app\n- Drop raw format support to prevent some issues"
   },
   "beta": {
-    "current_version": 9330000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%209.3.3.apk",
-    "changelog": "- Fixed ClassNotFoundException errors (Video player, WiFi Transfer)\n- Updated to SDK 34 to fix the old application alert and block installation (Android 14)\n- Removed Theme.Holo components and replaced them with Theme.Material in the UI smali\n- Fixed Play Protect warning due to the SDK update\n- Dropped support for Android 5 and 5.1\n- Synchronized components with AGP 8.1.2\n- Updated some links\n- Small improvements"
-  },
-  "developer": {
-    "current_version": 9300003,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/app-debug.apk",
-    "changelog": "- Set min sdk 23\n- Refresh blur background overlay to work in android preference\n- Some bug fixes and cleanings"
+	"current_version": 9340000,
+	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%209.3.4.apk",
+	"changelog": "- Fixed rotation menu not change in high definition images (Android 14)\n- Fixed share menu not show user apps\n- Fixed update layout height\n- Fixed card switch padding\n- (WIP) Force media scanner update when OTG to mounted\n- Check if device have SD or OTG and request SAF authorization"
   },
   "alternative": {
-    "current_version": 9300000,
-    "download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.3/9.3.Alternative.apk",
-    "changelog": "- Use text wrap in settings to prevent title text cut\n- Fixed freeze loaf albums when opening app\n- Drop raw format support to prevent some issues"
+	"current_version": 9300000,
+	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.3/9.3.Alternative.apk",
+	"changelog": "- Use text wrap in settings to prevent title text cut\n- Fixed freeze loaf albums when opening app\n- Drop raw format support to prevent some issues"
   }
 }
