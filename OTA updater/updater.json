@@ -5,9 +5,9 @@
 	"changelog": "- Use text wrap in settings to prevent title text cut\n- Fixed freeze loaf albums when opening app\n- Drop raw format support to prevent some issues"
   },
   "beta": {
-	"current_version": 9350000,
-	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%209.3.5.apk",
-	"changelog": "- Fixed search bar results issues\n- (WIP) Fixed SD card albums not showing\n- (REVERT) Force media scanner update when OTG to mounted"
+	"current_version": 9360000,
+	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%209.3.6.apk",
+	"changelog": "- Ignore SAF and force old SD card scanner\n- Fixed HttpsPost class issues for WiFi Transfer\n- Small bugs fixes and changes"
   },
   "alternative": {
 	"current_version": 9300000,
