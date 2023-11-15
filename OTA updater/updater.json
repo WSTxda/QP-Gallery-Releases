@@ -1,17 +1,17 @@
 {
   "stable": {
-	"current_version": 9300000,
-	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.3/QP.Gallery.9.3.apk",
-	"changelog": "- Use text wrap in settings to prevent title text cut\n- Fixed freeze loaf albums when opening app\n- Drop raw format support to prevent some issues"
+	"current_version": 9400000,
+	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.4/QP.Gallery.9.4.apk",
+	"changelog": "- Check GitHub to view full changelog"
   },
   "beta": {
-	"current_version": 9360000,
-	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/raw/master/OTA%20updater/Beta%20builds/QP%20Gallery%209.3.6.apk",
-	"changelog": "- Ignore SAF and force old SD card scanner\n- Fixed HttpsPost class issues for WiFi Transfer\n- Small bugs fixes and changes"
+	"current_version": 9400000,
+	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.4/QP.Gallery.9.4.apk",
+	"changelog": "- Check GitHub to view full changelog"
   },
   "alternative": {
-	"current_version": 9300000,
-	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.3/9.3.Alternative.apk",
-	"changelog": "- Use text wrap in settings to prevent title text cut\n- Fixed freeze loaf albums when opening app\n- Drop raw format support to prevent some issues"
+	"current_version": 9400000,
+	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.4/9.4.Alternative.apk",
+	"changelog": "- Check GitHub to view full changelog"
   }
 }
