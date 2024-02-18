@@ -1,6 +1,6 @@
 # QuickPic Gallery Mod
-[![Android](https://img.shields.io/badge/Platform-Android-green.svg?style=flat-square)](https://www.android.com) [![API](https://img.shields.io/badge/API-23%2B-orange.svg?logo=android&style=flat-square)](https://developer.android.com/studio/releases/platforms) [![Release](https://img.shields.io/github/v/release/WSTxda/QP-Gallery-Releases?color=blue&label=Release&style=flat-square)](https://github.com/WSTxda/QP-Gallery-Releases/releases) [![Downloads](https://img.shields.io/github/downloads/WSTxda/QP-Gallery-Releases/total?color=brightgrey&style=flat-square)](https://github.com/WSTxda/QP-Gallery-Releases/releases)
- 
+[![Platform](https://img.shields.io/badge/android-platform?style=for-the-badge&label=platform&labelColor=30363d&color=ffffff)](https://www.android.com) [![API](https://img.shields.io/badge/23%2B-level?style=for-the-badge&logo=android&logoColor=3cd382&label=API&labelColor=30363d&color=ff663b)](https://developer.android.com/studio/releases/platforms) [![Release](https://img.shields.io/github/v/release/WSTxda/QP-Gallery-Releases?display_name=tag&style=for-the-badge&logo=github&labelColor=30363d&color=1f6feb)](https://github.com/WSTxda/QP-Gallery-Releases/releases) [![Downloads](https://img.shields.io/github/downloads/WSTxda/QP-Gallery-Releases/total?style=for-the-badge&labelColor=30363d&color=3fb950)](https://github.com/WSTxda/QP-Gallery-Releases/releases)
+
 ![alt text](https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/Banner.jpg)
 
 **Download**
