@@ -3,6 +3,9 @@
 
 ![alt text](https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/Banner.svg)
 
+> [!WARNING]
+> 32-bit architecture support required, check if your device is supported before proceeding to download
+
 **Download**
 
 [<img src="https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/GitHub.svg"
