@@ -5,9 +5,9 @@
 	"changelog": "- Check GitHub to view full changelog"
   },
   "beta": {
-	"current_version": 9410000,
-	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.4.1/QP.Gallery.9.4.1.apk",
-	"changelog": "- Update target sdk to 34\\n- Update wi-fi transfer to support nearby devices\\n- Update storage mount to support MOUNT_UNMOUNT_FILESYSTEMS for USB storage access\\n- Added support for media user selector (Android 14+)\\n- Fixed settings paddings\\n- Switch to material symbols\\n- Various internal improvements to support Android versions correctly"
+	"current_version": 9420000,
+	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.4.2/QP.Gallery.9.4.2.apk",
+	"changelog": "- Fixed search query result\\n- Fixed OTG manage files in Android 11+ (move, create, copy, delete, etc..)\\n- Fixed external storage not display in albums\\n- Update FileProvider Uri.parse and use request external storage user permissions\\n- Refresh albums if OTG is mounted by system\\n- Small changes"
   },
   "alternative": {
 	"current_version": 9400000,
