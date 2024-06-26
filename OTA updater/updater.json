@@ -5,9 +5,9 @@
 	"changelog": "- Check GitHub to view full changelog"
   },
   "beta": {
-	"current_version": 9420000,
-	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.4.2/QP.Gallery.9.4.2.apk",
-	"changelog": "- Fixed search query result\\n- Fixed OTG manage files in Android 11+ (move, create, copy, delete, etc..)\\n- Fixed external storage not display in albums\\n- Update FileProvider Uri.parse and use request external storage user permissions\\n- Refresh albums if OTG is mounted by system\\n- Small changes"
+	"current_version": 9430000,
+	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.4.3/QP.Gallery.9.4.3.apk",
+	"changelog": "- Fixed get EXIF information in details preview\\n- Use TAG_APERTURE_VALUE to get more precise camera apperture info\\n- Fixed Android 13+ cannot open media from notification\\n- Make details in image selectable in dialog details\\n- Revert refresh albums if OTG is mounted by system\\n- Some layout adjusts in Wi-Fi transfer, video player\\n- Update some about links, small fixed and improvements"
   },
   "alternative": {
 	"current_version": 9400000,
