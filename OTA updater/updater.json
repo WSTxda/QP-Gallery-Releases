@@ -6,8 +6,8 @@
   },
   "beta": {
 	"current_version": 9440000,
-	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.4.4/QP.Gallery.9.4.4.apk",
-	"changelog": "- Fixed image details controll cropped if use button navigation mode"
+	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.4.5/QP.Gallery.9.4.5.apk",
+	"changelog": "- Fixed read SD card media and OTG mount\n- Adjusts in dynamic colors (monet)\n- Small changes"
   },
   "alternative": {
 	"current_version": 9400000,
