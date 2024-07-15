@@ -5,7 +5,7 @@
 	"changelog": "- Check GitHub to view full changelog"
   },
   "beta": {
-	"current_version": 9440000,
+	"current_version": 9450000,
 	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.4.5/QP.Gallery.9.4.5.apk",
 	"changelog": "- Fixed read SD card media and OTG mount\n- Adjusts in dynamic colors (monet)\n- Small changes"
   },
