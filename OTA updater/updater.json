@@ -1,17 +1,17 @@
 {
   "stable": {
-	"current_version": 9400000,
-	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.4/QP.Gallery.9.4.apk",
-	"changelog": "- Check GitHub to view full changelog"
+	"current_version": 9500000,
+	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.5/normal.apk",
+	"changelog": "Changelog so long, check all changes in GitHub repository"
   },
   "beta": {
-	"current_version": 9450000,
-	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.4.5/QP.Gallery.9.4.5.apk",
-	"changelog": "- Fixed read SD card media and OTG mount\n- Adjusts in dynamic colors (monet)\n- Small changes"
+	"current_version": 9500000,
+	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.5/normal.apk",
+	"changelog": "Changelog so long, check all changes in GitHub repository"
   },
   "alternative": {
-	"current_version": 9400000,
-	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.4/9.4.Alternative.apk",
-	"changelog": "- Check GitHub to view full changelog"
+	"current_version": 9500000,
+	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.5/alternative.apk",
+	"changelog": "Changelog so long, check all changes in GitHub repository"
   }
 }
