@@ -1,17 +1,17 @@
 {
   "stable": {
-	"current_version": 9500000,
-	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.5/normal.apk",
-	"changelog": "Changelog so long, check all changes in GitHub repository"
+	"current_version": 9600000,
+	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.6/normal.apk",
+	"changelog": "- Added back search option in albuns\n- Fixed delete media when rename, move, copy, etc...\n- Fixed SD card media is not loaded in the album list\n- Fixed video player in explore mode\n- Small changes"
   },
   "beta": {
-	"current_version": 9500000,
-	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.5/normal.apk",
-	"changelog": "Changelog so long, check all changes in GitHub repository"
+	"current_version": 9600000,
+	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.6/normal.apk",
+	"changelog": "- Added back search option in albuns\n- Fixed delete media when rename, move, copy, etc...\n- Fixed SD card media is not loaded in the album list\n- Fixed video player in explore mode\n- Small changes"
   },
   "alternative": {
-	"current_version": 9500000,
-	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.5/alternative.apk",
-	"changelog": "Changelog so long, check all changes in GitHub repository"
+	"current_version": 9600000,
+	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.6/alternative.apk",
+	"changelog": "- Added back search option in albuns\n- Fixed delete media when rename, move, copy, etc...\n- Fixed SD card media is not loaded in the album list\n- Fixed video player in explore mode\n- Small changes"
   }
 }
