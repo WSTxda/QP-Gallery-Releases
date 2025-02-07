@@ -5,9 +5,9 @@
 	"changelog": "- Added back search option in albuns\n- Fixed delete media when rename, move, copy, etc...\n- Fixed SD card media is not loaded in the album list\n- Fixed video player in explore mode\n- Small changes"
   },
   "beta": {
-	"current_version": 9600000,
-	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.6/normal.apk",
-	"changelog": "- Added back search option in albuns\n- Fixed delete media when rename, move, copy, etc...\n- Fixed SD card media is not loaded in the album list\n- Fixed video player in explore mode\n- Small changes"
+	"current_version": 9610000,
+	"download_url": "https://github.com/WSTxda/QP-Gallery-Releases/releases/download/9.6.1/beta.apk",
+	"changelog": "- Update monet themes colors\n- Ask access media permission in external media viewer\n- UI improvements\n- Small changes and fixes"
   },
   "alternative": {
 	"current_version": 9600000,
