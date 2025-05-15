@@ -6,18 +6,18 @@
 > [!WARNING]
 > 32-bit architecture support required, check if your device is supported before proceeding to download
 
-**Download**
+### Download
 
-[<img src="https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/GitHub.svg"
+[<img src="https://raw.githubusercontent.com/WSTxda/WSTxda/main/images/GitHub.svg"
 	  alt='Get it on GitHub'
-	  height="80">](https://github.com/WSTxda/QP-Gallery-Releases/releases/latest) [<img src="https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/Telegram.svg"
+	  height="80">](https://github.com/WSTxda/QP-Gallery-Releases/releases/latest) [<img src="https://raw.githubusercontent.com/WSTxda/WSTxda/main/images/Telegram.svg"
 	  alt='Get it on Telegram'
 	  height="80">](https://t.me/WSTprojects)
 	  
-**Donate**
+### Donate
 
-[<img src="https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/PayPal.svg"
+[<img src="https://raw.githubusercontent.com/WSTxda/WSTxda/main/images/PayPal.svg"
 	  alt='Donate with PayPal'
-	  height="80">](https://bit.ly/2lV0E6u) [<img src="https://raw.githubusercontent.com/WSTxda/QP-Gallery-Releases/master/Images/BMC.svg"
+	  height="80">](https://bit.ly/2lV0E6u) [<img src="https://raw.githubusercontent.com/WSTxda/WSTxda/main/images/BMC.svg"
 	  alt='Donate with BMC'
 	  height="80">](https://www.buymeacoffee.com/wstxda)	  
