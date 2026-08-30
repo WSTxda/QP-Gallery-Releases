@@ -29,6 +29,6 @@ It includes multiple bug fixes, improved compatibility with recent Android versi
 
 [<img src="https://raw.githubusercontent.com/WSTxda/WSTxda/main/images/PayPal.svg"
 	  alt='Donate with PayPal'
-	  height="80">](https://bit.ly/2lV0E6u) [<img src="https://raw.githubusercontent.com/WSTxda/WSTxda/main/images/BMC.svg"
+	  height="80">](https://www.paypal.com/donate/?cmd=_donations&business=wstxda@gmail.com&currency_code=USD) [<img src="https://raw.githubusercontent.com/WSTxda/WSTxda/main/images/BMC.svg"
 	  alt='Donate with BMC'
-	  height="80">](https://www.buymeacoffee.com/wstxda)	  
+	  height="80">](https://www.buymeacoffee.com/wstxda)
