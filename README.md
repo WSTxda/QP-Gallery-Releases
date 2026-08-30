@@ -7,6 +7,8 @@
 A modernized version of the classic QuickPic Gallery, focused on speed, stability, and simplicity.
 It includes multiple bug fixes, improved compatibility with recent Android versions, and a refreshed Material 3 design — while preserving the lightweight, fast, and offline-first experience of the original app.
 
+This Alpha 2 update includes fixes for GIF playback on modern 64-bit Android devices and resets hidden album visibility after leaving the app with the system back button.
+
 <details>
   <summary>Screenshots</summary>
 
@@ -14,8 +16,8 @@ It includes multiple bug fixes, improved compatibility with recent Android versi
 
 </details>
 
-> [!WARNING]
-> 32-bit architecture support required, check if your device is supported before proceeding to download
+> [!NOTE]
+> Tested on Samsung Galaxy S25. The Alpha 2 fixed build is intended for modern 64-bit Android devices.
 
 ### Download
 
