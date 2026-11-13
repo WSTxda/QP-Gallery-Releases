@@ -45,6 +45,8 @@ A modernized version of the classic QuickPic Gallery, focused on speed, stabilit
 - Restore local Wi-Fi file transfers with Nearby Devices permission support.
 - Add an in-app update checker in settings.
 
+## Requirements
+
 > [!WARNING]
 > **32-bit Support Required:** This app relies on legacy 32-bit libraries (`armeabi-v7a`). Newer **64-bit-only devices** launched with recent Android versions (Android 14/17+) will **not** be able to install or run this mod. Please check your device's architecture before proceeding.
 
@@ -52,7 +54,9 @@ A modernized version of the classic QuickPic Gallery, focused on speed, stabilit
 
 [<img src="https://raw.githubusercontent.com/WSTxda/WSTxda/main/images/GitHub.svg" salt='Get it on GitHub' height="80">](https://github.com/WSTxda/QP-Gallery-Releases/releases/latest)
 [<img src="https://raw.githubusercontent.com/WSTxda/WSTxda/main/images/Telegram.svg" alt='Get it on Telegram' height="80">](https://t.me/WSTprojects)
-	  
+
+## Development
+
 ### Donate
 
 [<img src="https://raw.githubusercontent.com/WSTxda/WSTxda/main/images/PayPal.svg" alt="Donate with PayPal" height="80">](https://www.paypal.com/donate/?cmd=_donations&business=wstxda@gmail.com&currency_code=USD)
